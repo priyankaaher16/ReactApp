@@ -1,0 +1,8 @@
+{
+	"apps": [
+		{
+			"name": "myreact",
+			"script": "serve -s build -p 3008"
+		}
+	]
+}
